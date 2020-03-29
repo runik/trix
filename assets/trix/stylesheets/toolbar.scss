@@ -7,6 +7,9 @@ $opacity-disabled: 0.125;
 $opacity-active: 1;
 
 trix-toolbar {
+  position: absolute;
+  background: #fff;
+  
   * {
     box-sizing: border-box;
   }
